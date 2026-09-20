@@ -58,7 +58,7 @@ Hi, I'm **Muhammad Ramadian Ramadhan** - or **r4m**. I'm a final-year vocational
       <p align="center">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Myankoi&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=282828&amp;title_color=fabd2f&amp;text_color=ebdbb2&amp;border_radius=8" width="300" alt="Myankoi's most used programming languages" />
       </p>
-      <p align="center"><sub>Colors are fixed to the profile palette, independent of GitHub's theme.</sub></p>
+    
     </td>
   </tr>
 </table>
