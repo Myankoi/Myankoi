@@ -165,12 +165,6 @@ def main() -> None:
     )
     type_command(
         terminal,
-        "ls ~/projects --featured",
-        f"{YELLOW}rpl24-expo/{RESET}  {BLUE}presentra/{RESET}  {GREEN}cashmate/{RESET}  "
-        f"{MAGENTA}rubo-timer/ [WIP]{RESET}",
-    )
-    type_command(
-        terminal,
         "github --stats",
         f"repos {YELLOW}{stats.repos}{RESET}  |  stars {YELLOW}{stats.stars}{RESET}  |  "
         f"commits {YELLOW}{stats.commits}{RESET}  |  PRs {YELLOW}{stats.pull_requests}{RESET}",
