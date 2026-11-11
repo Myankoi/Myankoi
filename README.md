@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/terminal.gif" width="100%" alt="Animated r4mOS terminal introducing Muhammad Ramadian Ramadhan, his tools, projects, and public GitHub activity." />
 </p>
 
@@ -10,7 +10,7 @@
   <a href="mailto:muhammadramadian079@gmail.com"><img src="https://img.shields.io/badge/Email-fabd2f?style=flat-square&amp;logo=gmail&amp;logoColor=282828" alt="Email Ramadian" /></a>
   <a href="https://www.linkedin.com/in/ramadianramadhan/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=flat-square&amp;logo=linkedin&amp;logoColor=282828" alt="Connect with Ramadian on LinkedIn" /></a>
   <a href="https://github.com/Myankoi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-b8bb26?style=flat-square&amp;logo=github&amp;logoColor=282828" alt="Explore Myankoi's repositories" /></a>
-</p>
+</p> -->
 
 ## `whoami`
 
