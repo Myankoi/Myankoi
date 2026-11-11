@@ -10,13 +10,16 @@
   <a href="mailto:muhammadramadian079@gmail.com"><img src="https://img.shields.io/badge/Email-fabd2f?style=flat-square&amp;logo=gmail&amp;logoColor=282828" alt="Email Ramadian" /></a>
   <a href="https://www.linkedin.com/in/ramadianramadhan/"><img src="https://img.shields.io/badge/LinkedIn-83a598?style=flat-square&amp;logo=linkedin&amp;logoColor=282828" alt="Connect with Ramadian on LinkedIn" /></a>
   <a href="https://github.com/Myankoi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-b8bb26?style=flat-square&amp;logo=github&amp;logoColor=282828" alt="Explore Myankoi's repositories" /></a>
-</p> -->
+</p> 
+
+
+// 🥉 Represented DKI Jakarta and placed **3rd at the National LKS 2025 - IT Software Solutions for Business**. //
+
+-->
 
 ## `whoami`
 
 Hi, I'm **Muhammad Ramadian Ramadhan** - or **r4m**. I'm a final-year vocational high school student from Jakarta who enjoys turning ideas and everyday problems into software.
-
-> 🥉 Represented DKI Jakarta and placed **3rd at the National LKS 2025 - IT Software Solutions for Business**.
 
 <table>
   <tr>
@@ -58,8 +61,6 @@ Hi, I'm **Muhammad Ramadian Ramadhan** - or **r4m**. I'm a final-year vocational
       <p align="center">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Myankoi&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;bg_color=282828&amp;title_color=fabd2f&amp;text_color=ebdbb2&amp;border_radius=8" width="300" alt="Myankoi's most used programming languages" />
       </p>
-    
-    </td>
   </tr>
 </table>
 
